@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>나의 첫 웹페이지</title>
+  <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css"> <!-- 테마 적용 예시 (Pico.css) -->
+</head>
+<body>
+  <main class="container">
+    <h1>나의 첫 웹페이지</h1>
+    <p>안녕하세요! 저는 빅데이터에 관심이 많은 대학원생입니다. 이 페이지는 GitHub Pages를 활용한 첫 퍼블리싱 테스트입니다.</p>
+    
+    <!-- 선택 과제: 이미지 삽입 -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png" alt="샘플 이미지" width="200">
+  </main>
+</body>
+</html>
